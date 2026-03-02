@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# draw.io auto-backup files
+.$*.bkp
+*.bkp
+
+# macOS Alias files (not real files)
+* alias
+* alias 2
+* alias 3
