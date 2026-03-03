@@ -1,6 +1,6 @@
 # Progettazione di Software Medicali — Patient Management System
 
-> *Progettazione di Software Medicali / Tecnologie per la Telemedicina — Master's Degree in Biomedical Engineering, Politecnico di Torino, A.A. 2020/21*
+> *Progettazione di Software Medicali / Tecnologie per la Telemedicina — Master's Degree in Biomedical Engineering, Politecnico di Torino, A.A. 2024/25*
 
 ## Project
 
